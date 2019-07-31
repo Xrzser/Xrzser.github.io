@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: xuerui_1997@126.com
 description: "Every failure is leading towards success."
 keyword: "XR, XR Blog, 薛睿的博客, xuerui, 薛睿, 博客, xuerui_1997, 浅醉兮"
-url: "http://xrzser.github.io"          # your host, for absolute URL
+url: "http://xrzser.top"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Xrzser/xrzser.github.io.git" # you code repository
 
